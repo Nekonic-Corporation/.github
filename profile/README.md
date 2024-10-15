@@ -22,3 +22,5 @@ Nekonic Corporation operates one of the largest network and data security compan
 
 All the public repos (We have our own source control locally for our proprietary systems) is when a software is deemed unsatisfactory for monetary purposes. When a software is deemed this way then we publish them for the public to use under a strict credit us if used. It means that although open source we expect our name to be placed on the product name or publically shown somewhere in a way that it's impossible to miss to ensure you won't rip us off.<br>
 #### Our software is held under a custom license that enforces this which is bound to our Terms of Use and Source Access Policy located in each repository, each document, each source file and binaries.
+
+##### Our Source Access Policy is located [here](https://github.com/Nekonic-Corporation/.github/blob/main/profile/source-access.md)
